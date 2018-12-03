@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+.wrapper {
+  position: relative;
+  display: block;
+}
+
+.side-bar {
+  position: absolute;
+  height: 100vh;
+  border: 1px solid #ccc;
+  transition: all ease 0.3s;
+  top: 0px;
+  left: 0px;
+}
